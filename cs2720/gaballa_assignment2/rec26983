@@ -1,0 +1,31 @@
+gaballa_assignment2:
+total 52
+drwxr-xr-x. 2 myid  110 Feb 13 10:24 bin
+-rwxr--r--. 1 myid  209 Feb 13 10:29 compile.sh
+-rw-r--r--. 1 myid   37 Feb 13 08:51 double-input.txt
+-rw-r--r--. 1 myid   39 Feb 20 09:22 double.txt
+-rw-r--r--. 1 myid    8 Feb 17 11:51 input1.txt
+-rw-r--r--. 1 myid   29 Feb 13 08:51 int-input.txt
+-rw-r--r--. 1 myid   17 Feb 20 09:23 ints.txt
+-rw-r--r--. 1 myid 2337 Feb 20 07:55 README.txt
+-rw-r--r--. 1 myid    0 Feb 20 10:36 rec26983
+-rwxr--r--. 1 myid   63 Feb 20 09:28 runDouble.sh
+-rwxr--r--. 1 myid   61 Feb 20 09:24 runInt.sh
+-rwxr--r--. 1 myid   63 Feb 17 11:17 run.sh
+-rwxr--r--. 1 myid   64 Feb 20 09:24 runString.sh
+drwxr-xr-x. 2 myid  107 Feb 20 10:26 src
+-rw-r--r--. 1 myid   31 Feb 13 08:51 string-input.txt
+-rw-r--r--. 1 myid   29 Feb 20 09:23 strings.txt
+
+gaballa_assignment2/bin:
+total 20
+-rw-r--r--. 1 myid 4588 Feb 20 10:34 DoublyLinkedList.class
+-rw-r--r--. 1 myid 5225 Feb 20 10:34 DoublyLinkedListDriver.class
+-rw-r--r--. 1 myid  462 Feb 20 10:34 NodeType.class
+
+gaballa_assignment2/src:
+total 28
+-rw-r--r--. 1 myid 11837 Feb 20 09:53 DoublyLinkedListDriver.java
+-rw-r--r--. 1 myid  9926 Feb 20 10:26 DoublyLinkedList.java
+-rw-r--r--. 1 myid   305 Feb 20 09:17 NodeType.java
+/home/myid/yg01467/cs2720/gaballa_assignment2:/home/myid/csci-2720b

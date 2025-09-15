@@ -1,0 +1,26 @@
+gaballa_assignment1:
+total 24
+drwxr-xr-x. 2 myid  110 Feb  7 13:35 bin
+-rwxr--r--. 1 myid  180 Feb  7 13:35 compile.sh
+-rw-r--r--. 1 myid    2 Feb  7 15:31 input1.txt
+-rw-r--r--. 1 myid   16 Feb  7 14:08 input.txt
+-rw-r--r--. 1 myid 1014 Feb  9 18:03 README.txt
+-rw-r--r--. 1 myid    0 Feb  9 18:27 rec36397
+-rwxr--r--. 1 myid   57 Feb  7 15:34 run1.sh
+-rwxr--r--. 1 myid   56 Feb  7 13:50 run.sh
+drwxr-xr-x. 2 myid  126 Feb  9 18:19 src
+
+gaballa_assignment1/bin:
+total 16
+-rw-r--r--. 1 myid  376 Feb  9 18:22 ItemType.class
+-rw-r--r--. 1 myid 3375 Feb  9 18:22 LinkedListDriver.class
+-rw-r--r--. 1 myid  395 Feb  9 18:22 NodeType.class
+-rw-r--r--. 1 myid 2687 Feb  9 18:22 SortedLinkedList.class
+
+gaballa_assignment1/src:
+total 24
+-rw-r--r--. 1 myid  570 Feb  9 18:19 ItemType.java
+-rw-r--r--. 1 myid 4619 Feb  9 18:16 LinkedListDriver.java
+-rw-r--r--. 1 myid  437 Feb  9 18:17 NodeType.java
+-rw-r--r--. 1 myid 5660 Feb  9 18:14 SortedLinkedList.java
+/home/myid/yg01467/cs2720/gaballa_assignment1:/home/myid/csci-2720b

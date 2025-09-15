@@ -1,0 +1,26 @@
+gaballa_assignment4:
+total 164
+drwxr-xr-x. 2 myid    83 Apr 16 16:11 bin
+-rwxr--r--. 1 myid   136 Apr 16 16:06 compile.sh
+-rwxr--r--. 1 myid    49 Apr 16 16:11 experimentRun.sh
+-rw-r--r--. 1 myid    14 Apr 15 09:31 input1.txt
+-rw-r--r--. 1 myid 48891 Apr  8 10:09 ordered.txt
+-rw-r--r--. 1 myid 48891 Apr  8 10:09 random.txt
+-rw-r--r--. 1 myid   694 Apr 18 21:05 README.txt
+-rw-r--r--. 1 myid     0 Apr 18 21:27 rec14870
+-rw-r--r--. 1 myid 48891 Apr  8 10:09 reverse.txt
+-rwxr--r--. 1 myid    52 Apr 15 09:43 run0.sh
+drwxr-xr-x. 2 myid    80 Apr 18 21:23 src
+
+gaballa_assignment4/bin:
+total 12
+-rw-r--r--. 1 myid 2706 Apr 18 21:25 SortDriver.class
+-rw-r--r--. 1 myid 3537 Apr 18 21:25 Sorting.class
+-rw-r--r--. 1 myid 3593 Apr 18 21:25 SortingExperiments.class
+
+gaballa_assignment4/src:
+total 24
+-rw-r--r--. 1 myid 2692 Apr 18 21:13 SortDriver.java
+-rw-r--r--. 1 myid 7653 Apr 18 21:11 SortingExperiments.java
+-rw-r--r--. 1 myid 9356 Apr 18 21:23 Sorting.java
+/home/myid/yg01467/cs2720/gaballa_assignment4:/home/myid/csci-2720b

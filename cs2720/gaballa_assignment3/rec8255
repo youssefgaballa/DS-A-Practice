@@ -1,0 +1,26 @@
+gaballa_assignment3:
+total 32
+drwxr-xr-x. 2 myid  110 Mar 27 08:57 bin
+-rwxr--r--. 1 myid  182 Apr  1 15:04 compile.sh
+-rw-r--r--. 1 myid   37 Mar 27 07:38 double-input.txt
+-rwxr--r--. 1 myid   70 Mar 27 07:47 doubleRun.sh
+-rw-r--r--. 1 myid   29 Mar 27 07:38 int-input.txt
+-rwxr--r--. 1 myid   67 Mar 27 07:47 intRun.sh
+-rw-r--r--. 1 myid 3310 Apr  1 15:29 README.txt
+-rw-r--r--. 1 myid    0 Apr  1 16:20 rec8255
+drwxr-xr-x. 2 myid  107 Apr  1 16:14 src
+-rw-r--r--. 1 myid   31 Mar 27 07:39 string-input.txt
+-rwxr--r--. 1 myid   70 Mar 27 07:47 stringRun.sh
+
+gaballa_assignment3/bin:
+total 20
+-rw-r--r--. 1 myid 4412 Apr  1 16:14 BinarySearchTree.class
+-rw-r--r--. 1 myid 4411 Apr  1 16:14 BinarySearchTreeDriver.class
+-rw-r--r--. 1 myid  463 Apr  1 16:14 NodeType.class
+
+gaballa_assignment3/src:
+total 28
+-rw-r--r--. 1 myid 8549 Apr  1 16:00 BinarySearchTreeDriver.java
+-rw-r--r--. 1 myid 8589 Apr  1 16:14 BinarySearchTree.java
+-rw-r--r--. 1 myid  435 Apr  1 16:01 NodeType.java
+/home/myid/yg01467/cs2720/gaballa_assignment3:/home/myid/csci-2720b
